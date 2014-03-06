@@ -1,25 +1,3 @@
-# file: IB484.SuprimeCam.pb
-# filter: IB484
-# instrument: SuprimeCam
-# description: Telescope + CCD + filter + atmosphere
-# reference: None
-# comment: Filter Passband from S. Sasaki web page, file IB6_07.txt
-# comment: CCD and Optics transmission derived from the filter curves
-# comment: at http://indus.astron.s.u-tokyo.ac.jp/works/suprime/filters/
-# comment: Litterature inband flux at 0 mag and bandwidth computed from bandpass
-# comment: Prepared by H. Aussel (herve dot aussel at cea dot fr)
-# url: http://cosmos.phys.sci.ehime-u.ac.jp/~sasaki/NB+IA_FILTER/filter.html
-# system: ab
-# primary standard: abstd
-# primary magnitude: 0.0
-# bandwidth (xunit): 222.028961507611
-# inband flux at 0 mag: 1.02798194376197E-09
-# airmass: 1.2
-# airmass function: maunakea_subaru
-# xtype: wavelength
-# xunit: Angstrom
-# xref (xunit): 4840.0
-# ytype: QE
 4633.5   0.00000000000000
 4634.0   0.00114966803974
 4634.5   0.00119691916224

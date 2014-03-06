@@ -1,25 +1,3 @@
-# file: NB816.SuprimeCam.pb
-# filter: NB816
-# instrument: SuprimeCam
-# description: Telescope + CCD + filter + atmosphere
-# reference: None
-# comment: Filter Passband from S. Sasaki web page, file nb816_07.dat
-# comment: CCD and Optics transmission derived from the filter curves
-# comment: at http://indus.astron.s.u-tokyo.ac.jp/works/suprime/filters/
-# comment: Litterature inband flux at 0 mag and bandwidth computed from bandpass
-# comment: Prepared by H. Aussel (herve dot aussel at cea dot fr)
-# url: http://cosmos.phys.sci.ehime-u.ac.jp/~sasaki/NB+IA_FILTER/filter.html
-# system: ab
-# primary standard: abstd
-# primary magnitude: 0.0
-# bandwidth (xunit): 120.268990066763
-# inband flux at 0 mag: 1.97122744669008E-10
-# airmass: 1.2
-# airmass function: maunakea_subaru
-# xtype: wavelength
-# xunit: Angstrom
-# xref (xunit): 8154.0
-# ytype: QE
 8003.5   0.00160243537204
 8004.0   0.00177834503288
 8004.5   0.00213550888597
