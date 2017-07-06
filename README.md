@@ -14,3 +14,5 @@ Many of the filter curves come from the following websites
 http://www.mattiavaccari.net/df/filters/aux-110601/index.html
 
 http://www.astro.caltech.edu/~capak/filters/index.html
+
+http://svo2.cab.inta-csic.es/svo/theory/fps/
